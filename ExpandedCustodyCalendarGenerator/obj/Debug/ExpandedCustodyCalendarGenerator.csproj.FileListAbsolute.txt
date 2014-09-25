@@ -1,0 +1,7 @@
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\bin\Debug\ExpandedCustodyCalendarGenerator.exe.config
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\bin\Debug\ExpandedCustodyCalendarGenerator.exe
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\bin\Debug\ExpandedCustodyCalendarGenerator.pdb
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\bin\Debug\DDay.iCal.dll
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\obj\Debug\ExpandedCustodyCalendarGenerator.csprojResolveAssemblyReference.cache
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\obj\Debug\ExpandedCustodyCalendarGenerator.exe
+c:\users\nhender\documents\visual studio 2013\Projects\ExpandedCustodyCalendarGenerator\ExpandedCustodyCalendarGenerator\obj\Debug\ExpandedCustodyCalendarGenerator.pdb
